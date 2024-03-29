@@ -21,4 +21,4 @@ Running Tests:
 4.	testAddToCart
 5.	testCheckout
 6.	testCheckoutReview
-![image](https://github.com/Ahmed-Rakha/SwagLabsAutomated/assets/136905760/097f98df-6d25-47cf-a1d1-d71d9799cc42)
+
